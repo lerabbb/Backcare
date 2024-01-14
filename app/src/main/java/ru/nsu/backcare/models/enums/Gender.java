@@ -1,5 +1,5 @@
 package ru.nsu.backcare.models.enums;
 
 public enum Gender {
-    male, female, other;
+    MALE, FEMALE, OTHER;
 }

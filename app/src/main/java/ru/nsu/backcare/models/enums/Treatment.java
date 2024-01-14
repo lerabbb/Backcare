@@ -1,5 +1,5 @@
 package ru.nsu.backcare.models.enums;
 
 public enum Treatment {
-    straightBack, gymnastic, massage, therapeuticExercise, physiotherapy, ointment
+    STRAIGHT_BACK, GYMNASTIC, MASSAGE, THERAPEUTIC_EXERCISE, PHYSIOTHERAPY, OINTMENT
 }
